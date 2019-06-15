@@ -1,2 +1,2 @@
 # Sergey6.github.io
-html
+Мой сайт
